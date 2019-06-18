@@ -2,7 +2,7 @@
 
 A clone of Media Player Classic reimplemented in Qt.
 
-![screenshot]
+![screenshot](https://i.imgur.com/jgTVTBV.png)
 
 [Media Player Classic Home Cinema][mpc-hc] (mpc-hc) is considered by many to
 be the quintessential media player for the Windows desktop.  Media Player
